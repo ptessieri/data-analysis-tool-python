@@ -12,8 +12,7 @@ This project is a comprehensive data analysis tool built with Python, featuring 
    ![PCA Visualization with Eigenvectors](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181428_resized.png?raw=true)
 
 2. **Original Data with Vector Field and Eigenvectors and KDE Visualization**
-   ![Original Data with Vector Field]([https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181608_resized.png?raw=true](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181703_resized.png?raw=true))
-
+   ![Original Data with Vector Field](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181608_resized.png?raw=true)
 5. **Time Series Analysis**
    ![Time Series Analysis](URL_TO_IMAGE_5)
 
