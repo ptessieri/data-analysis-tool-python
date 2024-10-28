@@ -8,17 +8,11 @@ This project is a comprehensive data analysis tool built with Python, featuring 
 
 ## Features
 
-1. **PCA Visualization with Eigenvectors**
+1. **PCA Visualization with Eigenvectors and Spectral Clustering Visualization**
    ![PCA Visualization with Eigenvectors](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181428_resized.png?raw=true)
 
-2. **Spectral Clustering Visualization**
-   ![Spectral Clustering Visualization](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181429_resized.png?raw=true)
-
-3. **Original Data with Vector Field and Eigenvectors**
+2. **Original Data with Vector Field and Eigenvectors and KDE Visualization**
    ![Original Data with Vector Field](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181608_resized.png?raw=true)
-
-4. **KDE Visualization**
-   ![KDE Visualization](URL_TO_IMAGE_4)
 
 5. **Time Series Analysis**
    ![Time Series Analysis](URL_TO_IMAGE_5)
