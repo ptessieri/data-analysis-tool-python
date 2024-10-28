@@ -18,7 +18,7 @@ This project is a comprehensive data analysis tool built with Python, featuring 
    ![Time Series Analysis](URL_TO_IMAGE_5)
 
 6. **Histogram Visualization**
-   ![Histogram Visualization](URL_TO_IMAGE_6)
+   ![Histogram Visualization](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181808_resized.png?raw=true)
 
 Replace `URL_TO_IMAGE_1`, `URL_TO_IMAGE_2`, etc., with the actual URLs you copied for each image.
 
