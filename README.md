@@ -15,7 +15,7 @@ This project is a comprehensive data analysis tool built with Python, featuring 
    ![Spectral Clustering Visualization](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181429_resized.png?raw=true)
 
 3. **Original Data with Vector Field and Eigenvectors**
-   ![Original Data with Vector Field](URL_TO_IMAGE_3)
+   ![Original Data with Vector Field](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181608_resized.png?raw=true)
 
 4. **KDE Visualization**
    ![KDE Visualization](URL_TO_IMAGE_4)
