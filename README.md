@@ -12,7 +12,7 @@ This project is a comprehensive data analysis tool built with Python, featuring 
    ![PCA Visualization with Eigenvectors](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181428_resized.png?raw=true)
 
 2. **Spectral Clustering Visualization**
-   ![Spectral Clustering Visualization](URL_TO_IMAGE_2)
+   ![Spectral Clustering Visualization](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181429_resized.png?raw=true)
 
 3. **Original Data with Vector Field and Eigenvectors**
    ![Original Data with Vector Field](URL_TO_IMAGE_3)
