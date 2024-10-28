@@ -1,19 +1,53 @@
 # Data Analysis Tool
 
-This project is a versatile data analysis tool built with Python. It features clustering techniques, dimensionality reduction (PCA), and time series analysis to explore and visualize various datasets.
+## Project Overview
+
+This project is a comprehensive data analysis tool built with Python, featuring clustering, PCA, and time series analysis. The tool allows users to visualize data in unique and interactive ways.
+
+---
 
 ## Features
-- Clustering with Spectral Clustering
-- Dimensionality reduction using PCA
-- Time series decomposition
-- Data visualization with Matplotlib
 
-## Technologies Used
-- Python
-- NumPy
-- scikit-learn
-- Matplotlib
-- statsmodels
+1. **PCA Visualization with Eigenvectors**
+   ![PCA Visualization with Eigenvectors](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181428_resized.png?raw=true)
 
-## Installation
-Clone the repository and install the required libraries:
+2. **Spectral Clustering Visualization**
+   ![Spectral Clustering Visualization](URL_TO_IMAGE_2)
+
+3. **Original Data with Vector Field and Eigenvectors**
+   ![Original Data with Vector Field](URL_TO_IMAGE_3)
+
+4. **KDE Visualization**
+   ![KDE Visualization](URL_TO_IMAGE_4)
+
+5. **Time Series Analysis**
+   ![Time Series Analysis](URL_TO_IMAGE_5)
+
+6. **Histogram Visualization**
+   ![Histogram Visualization](URL_TO_IMAGE_6)
+
+Replace `URL_TO_IMAGE_1`, `URL_TO_IMAGE_2`, etc., with the actual URLs you copied for each image.
+
+### Optional: Arrange Images in a Grid Layout
+
+If you want a more compact layout, you can arrange them side by side using HTML (GitHub Markdown allows basic HTML):
+
+```markdown
+# Data Analysis Tool
+
+## Visualizations
+
+<table>
+  <tr>
+    <td><img src="URL_TO_IMAGE_1" alt="PCA Visualization" width="400"/></td>
+    <td><img src="URL_TO_IMAGE_2" alt="Spectral Clustering Visualization" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="URL_TO_IMAGE_3" alt="Original Data with Vector Field" width="400"/></td>
+    <td><img src="URL_TO_IMAGE_4" alt="KDE Visualization" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="URL_TO_IMAGE_5" alt="Time Series Analysis" width="400"/></td>
+    <td><img src="URL_TO_IMAGE_6" alt="Histogram Visualization" width="400"/></td>
+  </tr>
+</table>
