@@ -15,7 +15,7 @@ This project is a comprehensive data analysis tool built with Python, featuring 
    ![Original Data with Vector Field](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181703_resized.png?raw=true)
 
 5. **Time Series Analysis**
-   ![Time Series Analysis](URL_TO_IMAGE_5)
+   ![Time Series Analysis](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20182800.png?raw=true)
 
 6. **Histogram Visualization**
    ![Histogram Visualization](https://github.com/ptessieri/data-analysis-tool-python/blob/main/Screenshot%202024-10-28%20181808_resized.png?raw=true)
